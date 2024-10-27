@@ -10,7 +10,7 @@ IoTFleet enables control over multiple microcontroller devices running micropyth
 - Coming soon, over-air micropython device code change, etc...
 
 ## Slave Device Setup
-To get started, insert your wifi credential into the file `config.py` then save `MicroAPIgRESTion.py`, `main.py` & `config.py` onto the slave device. *note: I use [rshell](https://pypi.org/project/rshell/) to do so.*
+To get started, insert your wifi credential into the file `config.py` then save `MicroAPIgRESTion.py`, `main.py` & `config.py` onto the slave device. (*note: I use [rshell](https://pypi.org/project/rshell/) to do so.*)
 ```
 config.py
 ```
