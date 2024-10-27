@@ -13,7 +13,7 @@ IoTFleet enables control over multiple microcontroller devices running micropyth
 ## Slave Device Setup
 *for ESP c++ devices visit the [C++ESP](https://github.com/Lemon2311/IoTFleet.js/tree/C%2B%2BESP)* branch
 ## MicroPython
-To get started, insert your wifi credential into the file `config.py` then save `MicroAPIgRESTion.py`, `main.py` & `config.py` onto the slave device. *note: I use [rshell](https://pypi.org/project/rshell/) to do so.*
+To get started, insert your wifi credential into the file `config.py` then save `MicroAPIgRESTion.py`, `main.py` & `config.py` onto the slave device. (*note: I use [rshell](https://pypi.org/project/rshell/) to do so.*)
 ```
 config.py
 ```
